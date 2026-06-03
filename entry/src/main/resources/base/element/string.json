@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "自动电话拨打系统"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "自动电话拨打应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AUTOcall"
+    },
+    {
+      "name": "permission_microphone_reason",
+      "value": "用于通话录音功能"
+    },
+    {
+      "name": "permission_call_log_reason",
+      "value": "用于获取通话状态信息"
+    }
+  ]
+}
